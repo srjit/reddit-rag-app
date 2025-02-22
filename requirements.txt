@@ -1,1 +1,5 @@
 pmaw
+chromadb
+transformers
+sentence-transformers
+torch
