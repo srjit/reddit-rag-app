@@ -11,7 +11,7 @@ model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float
 chroma_client = chromadb.PersistentClient(path="../data/chroma_db")
 collection = chroma_client.get_collection(name="reddit_posts")
 
-def retrieve_relevant_docs(query, k=3):
+def retrieve_relevant_docs(query, k=5):
     """Fetch top-k relevant documents
        from ChromaDB based on query."""
     results = collection.query(
@@ -32,7 +32,7 @@ def generate_response(query):
     inputs = tokenizer(prompt, return_tensors="pt")
 
     with torch.no_grad():
-        outputs = model.generate(**inputs, max_new_tokens=200)
+        outputs = model.generate(**inputs, max_new_tokens=200, temperature=0.1)
     
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return response.split("AI:")[-1].strip()
