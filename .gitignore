@@ -170,5 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-.DS_Store/
+# older
+.DS_Store
 src/get_data.py

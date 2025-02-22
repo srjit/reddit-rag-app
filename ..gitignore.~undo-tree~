@@ -1,0 +1,27 @@
+(undo-tree-save-format-version . 1)
+"6a6794897710dfaddd433389031e758e7ca57ade"
+[nil nil nil nil (26553 25291 594835 485000) 0 nil]
+([nil nil ((3416 . 3417) (t 26553 17925 997802 938000)) nil (26553 25291 594834 957000) 0 nil])
+([nil nil ((3417 . 3426)) nil (26553 25291 594834 553000) 0 nil])
+([nil nil ((3426 . 3427)) nil (26553 25291 594834 333000) 0 nil])
+([nil nil ((3427 . 3428)) nil (26553 25291 594834 161000) 0 nil])
+([nil nil ((3428 . 3429)) nil (26553 25291 594833 913000) 0 nil])
+([nil nil (("." . -3428) (undo-tree-id14 . -1) (undo-tree-id15 . -1) 3429) nil (26553 25291 594833 749000) 0 nil])
+([nil nil ((3428 . 3432)) nil (26553 25291 594832 970000) 0 nil])
+([nil nil ((3432 . 3435)) nil (26553 25291 594832 721000) 0 nil])
+([nil nil ((3435 . 3436)) nil (26553 25291 594832 384000) 0 nil])
+([nil nil (("t" . -3434) (undo-tree-id10 . -1) (undo-tree-id11 . -1) ("	" . -3435) (undo-tree-id12 . -1) (undo-tree-id13 . -1) 3436) nil (26553 25291 594832 13000) 0 nil])
+([nil nil (("d" . -3432) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) ("a" . -3433) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) 3434) nil (26553 25291 594829 981000) 0 nil])
+([nil nil ((3432 . 3435)) nil (26553 25291 594820 49000) 0 nil])
+([nil nil ((3435 . 3443)) nil (26553 25291 594817 643000) 0 nil])
+([nil nil ((3416 . 3417) (t 26553 25291 610085 304000)) nil (26553 25682 75422 582000) 0 nil])
+([nil nil ((3417 . 3424)) nil (26553 25682 75422 263000) 0 nil])
+([nil nil ((3419 . 3420)) nil (26553 25682 75421 905000) 0 nil])
+([nil nil (("f" . -3418) (undo-tree-id0 . -1) 3419) nil (26553 25682 75420 32000) 0 nil])
+([nil nil ((3451 . 3452) (t 26553 25682 80127 159000)) nil (26553 28833 839466 71000) 0 nil])
+([nil nil ((3452 . 3467)) nil (26553 28833 839465 692000) 0 nil])
+([nil nil ((3467 . 3468)) nil (26553 28833 839465 207000) 0 nil])
+([nil nil (("
+" . 3436) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) ("src/get_data.py" . -3436)) nil (26553 28833 839464 483000) 0 nil])
+([nil current (("/" . -3434) (undo-tree-id0 . -1) 3435) nil (26553 28833 839460 450000) 0 nil])
+nil

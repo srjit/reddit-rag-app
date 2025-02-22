@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"ab4b4a50f5bfef5034293ed1f48c16cb6ad2ceff"
+"ac7c6b869de07487b46a5a4dee21d79500a00a4d"
 [nil nil nil nil (26553 19549 487025 367000) 0 nil]
 ([nil nil ((1 . 5) (t . -1)) nil (26553 19549 487024 758000) 0 nil])
 ([nil nil ((#("
@@ -277,5 +277,14 @@ print(\"Data saved to reddit_data.json\")
 ([nil nil ((#(" (by" 0 4 (fontified t face font-lock-string-face)) . -127)) nil (26553 25076 711790 420000) 0 nil])
 ([nil nil ((#(" u" 0 2 (fontified t face font-lock-string-face)) . -127)) nil (26553 25076 711790 19000) 0 nil])
 ([nil nil ((#("/sreejith2904" 0 13 (fontified t face font-lock-string-face)) . -127)) nil (26553 25076 711789 205000) 0 nil])
-([nil current ((#(")" 0 1 (fontified t face font-lock-string-face)) . 127)) nil (26553 25076 711785 925000) 0 nil])
+([nil nil ((#(")" 0 1 (fontified t face font-lock-string-face)) . 127)) nil (26553 25076 711785 925000) 0 nil])
+([nil nil ((128 . 130) (t 26553 25076 716961 626000)) nil (26553 25428 472360 342000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 281 . 282) (nil fontified nil 130 . 282) (130 . 282)) nil (26553 25428 472360 96000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified nil)) . 79) (undo-tree-id27 . -1) (#("CLIENT_ID = \"\"" 0 9 (fontified t face font-lock-variable-name-face) 9 12 (fontified t) 12 14 (fontified t face font-lock-string-face)) . -79) (undo-tree-id28 . -14)) nil (26553 25428 472359 451000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified nil)) . 79) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (#("CLIENT_SECRET = \"\"" 0 13 (fontified t face font-lock-variable-name-face) 13 16 (fontified t) 16 18 (fontified t face font-lock-string-face)) . -79) (undo-tree-id25 . -18) (undo-tree-id26 . -16)) nil (26553 25428 472358 340000) 0 nil])
+([nil current ((#("
+" 0 1 (fontified t)) . 79) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (#("
+" 0 1 (fontified nil)) . 79) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (#("USER_AGENT = \"\"" 0 10 (fontified t face font-lock-variable-name-face) 10 13 (fontified t) 13 15 (fontified t face font-lock-string-face)) . -79) (undo-tree-id12 . -14) (undo-tree-id13 . -14) (undo-tree-id14 . -14) (undo-tree-id15 . -13) (undo-tree-id16 . -15) (undo-tree-id17 . -13)) nil (26553 25428 472352 680000) 0 nil])
 nil
